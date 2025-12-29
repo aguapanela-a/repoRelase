@@ -1,0 +1,7 @@
+README.md
+setup.py
+miRepoRelases.egg-info/PKG-INFO
+miRepoRelases.egg-info/SOURCES.txt
+miRepoRelases.egg-info/dependency_links.txt
+miRepoRelases.egg-info/top_level.txt
+repoRelases/__init__.py
